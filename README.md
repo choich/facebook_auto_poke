@@ -6,6 +6,7 @@
      open fb_poke.py
      and input facebook ID, Password
      
+     
    2. install PhantomJS
    ---
       $ suto apt-get install phantomjs
