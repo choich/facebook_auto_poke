@@ -20,7 +20,8 @@ elem.submit()
 
 sleep(0.9)
 
-# check new foke and FOKE!!!
+
+# check new poke and POKE!!!
 while True:
     driver.get("https://www.facebook.com/pokes")
     new_poke_div = driver.find_element_by_id("u_0_0")
